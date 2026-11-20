@@ -16,16 +16,16 @@ Desenvolver uma API utilizando Python e Flask para disponibilizar informações 
 Clone o repositório:
 
 ```bash
-git clone LINK_DO_REPOSITORIO
+git clone https://github.com/SEU-USUARIO/Api-livros-flask.git
 ```
 
 Entre na pasta:
 
 ```bash
-cd api-livros
+cd Api-livros-flask
 ```
 
-Crie o ambiente virtual:
+Crie o ambiente virtual: venv\Scripts\activate
 
 ```bash
 python -m venv venv
