@@ -16,7 +16,7 @@ Desenvolver uma API utilizando Python e Flask para disponibilizar informações 
 Clone o repositório:
 
 ```bash
-git clone https://github.com/feliperodrigues699060-cell/Api-livros-flask
+git clone https://github.com/feliperodrigues699060-cell/Api-livros-flask.git
 ```
 
 Entre na pasta:
